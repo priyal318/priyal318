@@ -3,7 +3,7 @@
    Backend Developer | Java • Spring Boot • MERN
 
         About Me
-   ─────────────────────
+   ─────
    🎓 ICT Engineering Student
    💻 Backend-focused Developer
    ☕ Java & Spring Boot
